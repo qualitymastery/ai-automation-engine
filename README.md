@@ -1,4 +1,4 @@
-# Automation Desktop Blueprint by 2x - SDET Course
+# Automation Desktop Blueprint by 2x - SDET
 
 Welcome to the **Automation Desktop Blueprint by 2x** repository! This project serves as a comprehensive guide to understanding and integrating Artificial Intelligence (AI) and Large Language Models (LLMs) into modern software testing and Quality Assurance (QA) workflows.
 
